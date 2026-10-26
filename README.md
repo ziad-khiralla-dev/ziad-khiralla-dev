@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Ziad! 👋
 
-<!--
-**ziad-khiralla-dev/ziad-khiralla-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Computer Science Student passionate about **Embedded Systems**, **Low-Level C/C++ Development**, and **Automation Tools**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+
+- **Languages:** C, C++, Go, JavaScript, HTML/CSS
+- **Embedded & Systems:** Bare-Metal C, Embedded Systems Fundamentals, C++ OOP Architecture
+- **Tools & Utilities:** Go CLI Tools, Git & GitHub, Terminal Automation
+
+---
+
+## 📂 Featured Repositories
+
+### 📟 Embedded Systems & Low-Level C/C++
+- 📑 **[Smart-Inventory-System-Cpp](https://github.com/ziad-khiralla-dev/Smart-Inventory-System-Cpp)**
+  > A modular C++ Smart Inventory System built using Object-Oriented Programming (OOP) principles and multi-file architecture.
+
+- 📟 **[Embedded-C-Journey](https://github.com/ziad-khiralla-dev/Embedded-C-Journey)**
+  > My learning journey and hands-on code for Embedded C & Embedded Systems fundamentals.
+
+---
+
+### ⚙️ Systems & CLI Tools
+- ⚡ **[Cli-Bridge](https://github.com/ziad-khiralla-dev/Cli-Bridge)**
+  > A lightweight CLI tool written in Go that executes terminal commands and sends execution status/notification alerts to Telegram.
+
+---
+
+### 🌐 Web & Front-End Utilities
+- 🔐 **[Password-Generator](https://github.com/ziad-khiralla-dev/Password-Generator)**
+  > A secure, customizable password generator featuring real-time password strength analysis and Clipboard API integration.
+
+- 📝 **[To-Do-List](https://github.com/ziad-khiralla-dev/To-Do-List)**
+  > A dynamic and responsive To-Do List application built with HTML, CSS, and Vanilla JavaScript.
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [@ziad-khiralla-dev](https://github.com/ziad-khiralla-dev)
